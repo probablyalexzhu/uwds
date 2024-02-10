@@ -9,12 +9,12 @@ title: Home Page
   tag=h2
   lifeLike=true
   speed=75
-  breakLines=false
-  loop=true
+  breakLines=true
+  loop=false
 >}}
 Compete across Canada and internationally
 Host weekly meetings and socials
 Grow the sport of competitive debate
 Foster an open welcoming community
-
+ 
 {{< /typeit >}}

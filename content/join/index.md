@@ -17,3 +17,7 @@ showPagination: false
 {{< lead >}}
 So how do I get involved in this community?
 {{< /lead >}}
+
+{{< button href="https://discord.gg/zWaxAKWFPP" target="_blank" >}}
+Join Our Discord
+{{< /button >}}
