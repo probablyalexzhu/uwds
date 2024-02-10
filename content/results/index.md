@@ -1,11 +1,11 @@
 ---
-title: Resources
+title: Results
 date: 2024-02-09
 showDate: false
 showWordCount: false
 showReadingTime: false
 
-summary: "Collection of resources"
+summary: "results page"
 showSummary: true
 showAuthor: false
 showTableOfContents: false
@@ -15,5 +15,5 @@ showPagination: false
 ---
 
 {{< lead >}}
-How do I learn to debate?
+Can a STEM school succeed in debate? Of course!
 {{< /lead >}}

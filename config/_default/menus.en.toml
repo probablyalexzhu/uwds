@@ -16,13 +16,19 @@
   weight = 10
   
 [[main]]
-  name = "Resources"
-  pageRef = "resources"
+  name = "Results"
+  pageRef = "results"
   weight = 20
 
-#[[main]]
-#  name = "Parent"
-#  weight = 20
+[[main]]
+  name = "Resources"
+  pageRef = "resources"
+  weight = 30
+
+[[main]]
+  name = "Join"
+  pageRef = "join"
+  weight = 40
 
 #[[main]]
 #  name = "example sub-menu 1"

@@ -1,25 +1,20 @@
 ---
-title: About me 
-date: 2023-08-07
-showDate: false
-showWordCount: false
-showReadingTime: false
-
-summary: "All about Nathan Kong."
-showSummary: true
-showAuthor: false
-showTableOfContents: false
-showComments: false
-showRecent: false
-showPagination: false
+title: Home Page
 ---
 
-## Hello! My name is Nathan Kong.
+### As Waterloo's varsity debate team, we:
 
-I'm a first-year Electrical Engineering student at the University of Waterloo, heading into my first co-op at Hatch, as a Power Co-op. Over my first term, I put my foot into the door of engineering, and look forward to continue doing so with Hatch.
+{{< typeit
+  startDelay=1500
+  tag=h2
+  lifeLike=true
+  speed=75
+  breakLines=false
+  loop=true
+>}}
+Compete across Canada and internationally
+Host weekly meetings and socials
+Grow the sport of competitive debate
+Foster an open welcoming community
 
-In my free time, I... listen to music. Big shocker, I know. But while I listen to music, I'm not afraid to get my hands dirty. I've built & modded my two keyboards (newest pictured below), nearly bricked myself out of my computer, and cook my specialty dishes, all with my favourite tunes blasting in my ears.
-
-![My current keyboard](keyboard.jpg "JRIS65, GMK Bento, Gazzew Bobagum Silent Linear Switches (lubed), TX 1.2mm Stabilizers" )
-
-Want to get my opinion on an album? Question about my keyboard? Please feel free to reach out about anything!
+{{< /typeit >}}

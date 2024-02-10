@@ -1,11 +1,11 @@
 ---
-title: Resources
+title: How To Join
 date: 2024-02-09
 showDate: false
 showWordCount: false
 showReadingTime: false
 
-summary: "Collection of resources"
+summary: "How to join"
 showSummary: true
 showAuthor: false
 showTableOfContents: false
@@ -15,5 +15,5 @@ showPagination: false
 ---
 
 {{< lead >}}
-How do I learn to debate?
+So how do I get involved in this community?
 {{< /lead >}}
