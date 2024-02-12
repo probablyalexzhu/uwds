@@ -17,7 +17,7 @@ showPagination: false
 {{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}
 
 {{< lead >}}
-So how do I get involved in this community?
+So how do I get involved in the community?
 {{< /lead >}}
 
 **Step 1:** Join our Discord server! Here, we post meeting announcements/sign-in forms, tournament bids and results, and everything else debate-related!
@@ -28,4 +28,4 @@ Join Our Discord
 
 **Step 2:** Fill in the sign-in form: Every Wednesday, we post a sign-in form in the #meeting-info channel. Let us know if you want to debate/judge, and whether you have experience, and we’ll assign you a role accordingly.
 
-**Step 3:** Just show up! We try to create a completely pressure-free environment, so feel free to let loose and run silly arguments - this is a safe space to suck at debate and slowly get better.
+**Step 3:** Just show up! We try to create a completely pressure-free environment, so feel free to let loose and run silly arguments -- this is a safe space to suck at debate and slowly get better.

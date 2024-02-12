@@ -16,6 +16,10 @@ showPagination: false
 
 {{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}
 
+{{< lead >}}
+We've been around for a while and the results speak for themselves.
+{{< /lead >}}
+
 {{< timeline >}}
 
 
@@ -49,3 +53,7 @@ With other shortcodes
 
 
 {{< /timeline >}}
+
+Botswana WUDC 2011
+
+Established in 2006

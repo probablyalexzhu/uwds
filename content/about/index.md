@@ -20,7 +20,7 @@ showPagination: false
 What is the University of Waterloo Debate Society (aka UW Debate)?
 {{< /lead >}}
 
-We are Waterloo’s competitive debating society, established around two decades ago!
+We are Waterloo’s competitive debating society, established in 2006!
 
 We regularly compete in tournaments across Canada and the globe (we [traveled to Vietnam](https://www.youtube.com/watch?v=qqoJs9QQuik) for WUDC this year). As a member of CUSID (the Canadian University Society for Intercollegiate Debate), we also annually host a high school tournament (Waterloo HST) and university tournament (Seagram’s IV).
 
@@ -29,3 +29,17 @@ Besides this, we try to have a great time! We go to Subway to grab food after me
 We host meetings at 6:30 p.m. every Wednesday in RCH 110.
 
 Again, we’re a **super beginner-friendly club** -- just pop by a Wednesday meeting to judge, debate, or just spectate! If you want to debate/judge at a tournament, or help us organize a Waterloo tournament, just reach out and we’ll likely have a spot for you :)
+
+## Our Funding
+
+{{< gallery >}}
+  <img src="sponsors/mef.webp" class="grid-w40" />
+  <img src="sponsors/slef.webp" class="grid-w40" />
+  <img src="sponsors/aef.png" class="grid-w20" />
+{{< /gallery >}}
+
+## Organizations
+{{< gallery >}}
+  <img src="sponsors/cusid transparent.png" class="grid-w20" />
+  <img src="sponsors/subway.png" class="grid-w60" />
+{{< /gallery >}}
