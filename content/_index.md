@@ -15,6 +15,6 @@ title: Home Page
 Compete across Canada and internationally
 Host weekly meetings and socials
 Grow the sport of competitive debate
-Foster an open welcoming community
+Foster an open and welcoming community
  
 {{< /typeit >}}

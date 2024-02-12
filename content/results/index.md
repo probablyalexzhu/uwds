@@ -14,6 +14,8 @@ showRecent: false
 showPagination: false
 ---
 
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}
+
 {{< timeline >}}
 
 
