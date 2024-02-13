@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resources on UW Debate</title>
+    <link>https://debate.uwaterloo.ca/resources/</link>
+    <description>Recent content in Resources on UW Debate</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 University of Waterloo Debate Society</copyright>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://debate.uwaterloo.ca/resources/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Novice Guide</title>
+      <link>https://debate.uwaterloo.ca/resources/novice/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://debate.uwaterloo.ca/resources/novice/</guid>
+      <description>Collection of amazing resources for new debaters to help you get started</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://debate.uwaterloo.ca/resources/novice/feature.png" />
+    </item>
+    
+    <item>
+      <title>Advanced Guide</title>
+      <link>https://debate.uwaterloo.ca/resources/advanced/</link>
+      <pubDate>Mon, 12 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://debate.uwaterloo.ca/resources/advanced/</guid>
+      <description>Links to advanced resources and a learning guide for experienced debaters</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://debate.uwaterloo.ca/resources/advanced/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>How To Get Involved</title>
+      <link>https://debate.uwaterloo.ca/resources/get-involved/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://debate.uwaterloo.ca/resources/get-involved/</guid>
+      <description>UW Debate information on meetings, the exec team, and competing at/organizing tournaments</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://debate.uwaterloo.ca/resources/get-involved/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

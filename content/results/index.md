@@ -5,7 +5,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 
-summary: "results page"
+summary: "We've been around for a while and the results speak for themselves."
 showSummary: true
 showAuthor: false
 showTableOfContents: true

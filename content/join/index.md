@@ -5,7 +5,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 
-summary: "How to join"
+summary: "How to join UW Debate"
 showSummary: true
 showAuthor: false
 showTableOfContents: false

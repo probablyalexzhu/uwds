@@ -1,5 +1,6 @@
 ---
-title: Home Page
+title: Home page
+summary: "Waterloo's varsity debate team"
 ---
 
 ### As Waterloo's varsity debate team, we:

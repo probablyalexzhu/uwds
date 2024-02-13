@@ -5,7 +5,7 @@ showDate: false
 showWordCount: false
 showReadingTime: false
 
-summary: "About UW Debate"
+summary: "What is the University of Waterloo Debate Society (aka UW Debate)?"
 showSummary: true
 showAuthor: false
 showTableOfContents: false
