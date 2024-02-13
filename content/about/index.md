@@ -41,5 +41,12 @@ Again, we’re a **super beginner-friendly club** -- just pop by a Wednesday mee
 ## Organizations
 {{< gallery >}}
   <img src="sponsors/cusid transparent.png" class="grid-w20" />
-  <img src="sponsors/subway.png" class="grid-w60" />
+  <img src="sponsors/wusa.png" class="grid-w40" />
+  <img src="sponsors/subway.png" class="grid-w40" />
 {{< /gallery >}}
+
+<br><br>
+<details>
+    <summary>About This Site</summary>
+    This site, powered by Hugo and Blowfish, was built by Alex Zhu, Advait Sangle, and Nyx Kucharski in Winter 2024.
+</details>

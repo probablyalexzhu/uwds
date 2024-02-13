@@ -26,6 +26,24 @@
   weight = 30
 
 [[main]]
+  name = "Novice Guide"
+  parent = "Resources"
+  pageRef = "novice"
+  weight = 10
+
+[[main]]
+  name = "Advanced Guide"
+  parent = "Resources"
+  pageRef = "advanced"
+  weight = 20
+  
+[[main]]
+  name = "How To Get Involved"
+  parent = "Resources"
+  pageRef = "get-involved"
+  weight = 30
+
+[[main]]
   name = "Join"
   pageRef = "join"
   weight = 40
