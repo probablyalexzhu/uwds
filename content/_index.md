@@ -17,5 +17,5 @@ Compete across Canada and internationally
 Host weekly meetings and socials
 Grow the sport of competitive debate
 Foster an open and welcoming community
- 
+And more... 
 {{< /typeit >}}
